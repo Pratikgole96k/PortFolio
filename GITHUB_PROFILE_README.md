@@ -16,9 +16,12 @@
     <a href="https://github.com/Pratikgole96k/PortFolio"><img src="https://img.shields.io/badge/Portfolio-Live_App-38BDF8?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
   </p>
 
-  <!-- Live Status Badge -->
-  <img src="https://img.shields.io/badge/Status-🟢_Open_for_Python_%26_AI%2FML_Roles-10B981?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/badge/Location-Nashik%2C_Maharashtra%2C_India-0284C7?style=flat-square" alt="Location" />
+  <!-- Live Status Badges & Profile Views -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Pratikgole96k&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Status-🟢_Open_for_Roles-10B981?style=flat-square" alt="Status" />
+    <img src="https://img.shields.io/badge/Location-Nashik%2C_Maharashtra%2C_India-0284C7?style=flat-square" alt="Location" />
+  </p>
 
 </div>
 
@@ -92,23 +95,22 @@ class Developer:
 
 ---
 
-### 📊 GitHub Activity & Dynamic Statistics
+### ⚡ Developer Focus & Competency Matrix
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Pratikgole96k&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=10B981&text_color=94A3B8" alt="Pratik's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratikgole96k&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+
+  <a href="https://github.com/Pratikgole96k">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=10B981&center=true&vCenter=true&width=620&height=130&lines=Core+Specialization%3A+Python%2C+AI%2FML+%26+SQL+Architecture;Data+Pipeline%3A+Preprocessing+%E2%86%92+EDA+%E2%86%92+Modeling+%E2%86%92+Evaluation;Algorithms%3A+Linear%2FLogistic+Regression%2C+KNN%2C+Decision+Trees;Full+Stack%3A+HTML5%2C+CSS3%2C+JavaScript%2C+PHP%2C+Relational+SQL;Open+for+Opportunities%3A+Python+Dev+%7C+AI%2FML+Roles" alt="Competency Matrix" />
+  </a>
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratikgole96k&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" alt="Pratik's Streak" />
+  <p align="center">
+    <img src="https://img.shields.io/badge/Algorithms-Supervised_%26_Unsupervised-0ea5e9?style=for-the-badge" alt="Algorithms" />
+    <img src="https://img.shields.io/badge/Schema-3NF_Normalized_SQL-3b82f6?style=for-the-badge" alt="Schema" />
+    <img src="https://img.shields.io/badge/Pipeline-End_to_End_Data_Science-10b981?style=for-the-badge" alt="Pipeline" />
+  </p>
+
 </div>
 
 ---
