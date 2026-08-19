@@ -5,8 +5,8 @@ export const personalInfo = {
   location: "Nashik, Maharashtra, India",
   phone: "+91 9021263085",
   email: "pratikgole96k@gmail.com",
-  linkedin: "https://linkedin.com/in/pratik-gole",
-  linkedinHandle: "linkedin.com/in/pratik-gole",
+  linkedin: "https://linkedin.com/in/pratik-gole-3689ba330",
+  linkedinHandle: "linkedin.com/in/pratik-gole-3689ba330",
   github: "https://github.com",
   summary:
     "B.S Computer Science graduate and M.Sc Computer Science student with a strong foundation in Python, C, SQL, Data Structures, and Object-Oriented Programming. Builds working knowledge of Artificial Intelligence and Machine Learning, including data preprocessing, exploratory data analysis, model training, and model evaluation. Combines analytical problem-solving with hands-on web development experience (HTML, CSS, JavaScript, PHP, SQL). Seeking an entry-level Python Developer, AI/ML Intern, or Junior AI/ML Developer role to apply technical skills to production-level projects.",
