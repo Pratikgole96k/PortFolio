@@ -82,4 +82,4 @@ A modern, interactive, and responsive developer portfolio built for **Pratik Gol
 - **Location**: Nashik, Maharashtra, India
 - **Email**: [pratikgole96k@gmail.com](mailto:pratikgole96k@gmail.com)
 - **Phone**: +91 9021263085
-- **LinkedIn**: [linkedin.com/in/pratik-gole]("https://www.linkedin.com/in/pratik-gole-3689ba330")
+- **LinkedIn**: [linkedin.com/in/pratik-gole-3689ba330]("https://www.linkedin.com/in/pratik-gole-3689ba330")
